@@ -1,5 +1,6 @@
 class Vehicle {
-    String brand;
+    String brandname;
+    int speed;
     
 
     void start() {
